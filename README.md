@@ -30,6 +30,8 @@ Best f1-score on test set: 0.3
 ```
 # Контакты для связи в Telegram
 @Umaaaaaaaa – Ума Абдуллаева
+
 @dajesp1 - Дмитрий Асланян
+
 @sonya_serebryakova – Соня Серебрякова
 
